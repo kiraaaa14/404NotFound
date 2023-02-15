@@ -3,14 +3,14 @@
   src: url(../GreatVibes-Regular.ttf) format(truetype);
 }
 :root {
-  --gold: rgb(144, 144, 96);
+  --gold: rgb(46, 213, 213);
 }
 * {
   font-family: vibes;
 }
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../img/ring.jpg);
+    url(../img/mwewhehee.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
